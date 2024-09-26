@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swstevens
 - 👀 I’m interested in Game programming and machine learning
-- 🌱 I’m currently learning about shaders and 3d rendering
+- 🌱 I’m currently learning Golang and Networking
 - 📫 How to reach me - Email - sstevensw@gmail.com - https://swstevens.github.io/
 
 <!---
